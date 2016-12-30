@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wnetstat", "wnetstat.vcproj", "{5B905F70-CA23-4A92-978C-4678047E9CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B905F70-CA23-4A92-978C-4678047E9CEC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B905F70-CA23-4A92-978C-4678047E9CEC}.Debug|Win32.Build.0 = Debug|Win32
+		{5B905F70-CA23-4A92-978C-4678047E9CEC}.Release|Win32.ActiveCfg = Release|Win32
+		{5B905F70-CA23-4A92-978C-4678047E9CEC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

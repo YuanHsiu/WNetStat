@@ -1,0 +1,11 @@
+protocolFilter=TCP
+stateFilter=ESTABLISHED
+portCheck=0
+portFilter=
+ipCheck=0
+ipFilter=
+resolveAddressCheck=0
+monitorCheck=1
+emailCheck=0
+logCheck=1
+emailAddress=vanamburgh@accuwx.com
